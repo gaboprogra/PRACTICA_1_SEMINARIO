@@ -100,7 +100,7 @@ Colocar aquí una captura del archivo `Reservation.ts`.
 ![Capa de dominio](./images/1.png)
 ```
 
----
+## s
 
 ## 2. Capa de Casos de Uso
 
