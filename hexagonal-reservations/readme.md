@@ -361,8 +361,6 @@ Esto demuestra que la lógica de negocio está desacoplada de la infraestructura
 
 ## Imagen de la prueba de intercambiabilidad
 
-Colocar aquí una captura donde se muestre el cambio de adaptador en `server.ts`.
-
 ![Cambio de adaptador](./images/6.png)
 
 ---
@@ -390,8 +388,6 @@ Gracias a esta separación, el sistema es más ordenado, mantenible y fácil de 
 ---
 
 ## Evidencias
-
-Agregar aquí capturas adicionales del proyecto funcionando.
 
 ### Captura 1
 
