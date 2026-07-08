@@ -96,9 +96,7 @@ if (reservationDate < today) {
 
 Colocar aquí una captura del archivo `Reservation.ts`.
 
-```md
 ![Capa de dominio](./images/1.png)
-```
 
 ## s
 
