@@ -94,11 +94,7 @@ if (reservationDate < today) {
 
 ## Imagen de la capa de dominio
 
-Colocar aquí una captura del archivo `Reservation.ts`.
-
 ![Capa de dominio](./images/1.png)
-
-## s
 
 ## 2. Capa de Casos de Uso
 
@@ -137,9 +133,7 @@ Gracias a esto, se puede cambiar el almacenamiento sin modificar el caso de uso.
 
 ## Imagen del caso de uso
 
-```md
 ![Caso de uso](./images/2.png)
-```
 
 ---
 
@@ -188,9 +182,7 @@ Este adaptador es útil para pruebas rápidas porque no necesita una base de dat
 
 ## Imagen del repositorio en memoria
 
-```md
 ![Repositorio en memoria](./images/3.png)
-```
 
 ---
 
@@ -307,9 +299,7 @@ Respuesta esperada:
 
 ## Imagen de prueba correcta
 
-```md
 ![Prueba correcta](./images/4.png)
-```
 
 ---
 
@@ -336,9 +326,7 @@ El sistema responde con un error:
 
 ## Imagen de prueba incorrecta
 
-```md
 ![Prueba incorrecta](./images/5.png)
-```
 
 ---
 
@@ -375,9 +363,7 @@ Esto demuestra que la lógica de negocio está desacoplada de la infraestructura
 
 Colocar aquí una captura donde se muestre el cambio de adaptador en `server.ts`.
 
-```md
 ![Cambio de adaptador](./images/6.png)
-```
 
 ---
 
@@ -409,8 +395,6 @@ Agregar aquí capturas adicionales del proyecto funcionando.
 
 ### Captura 1
 
-```md
 ![Evidencia 1](./images/7.png)
-```
 
 ---
